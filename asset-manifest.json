@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/luciernaga/static/css/main.27eb2de4.css",
+    "main.js": "/luciernaga/static/js/main.ab91a73a.js",
+    "static/media/perfil.png": "/luciernaga/static/media/perfil.8c48bc5bf902659a79ca.png",
+    "static/media/logo.png": "/luciernaga/static/media/logo.0eeccadc1aa64cae9500.png",
+    "index.html": "/luciernaga/index.html",
+    "main.27eb2de4.css.map": "/luciernaga/static/css/main.27eb2de4.css.map",
+    "main.ab91a73a.js.map": "/luciernaga/static/js/main.ab91a73a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27eb2de4.css",
+    "static/js/main.ab91a73a.js"
+  ]
+}
